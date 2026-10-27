@@ -13,7 +13,7 @@
   "experiencia_laboral": [
     {
       "empresa": "MERCADOLIBRE",
-      "cargo": "Software Developer — Technical Delivery & Lifecycle Lead",
+      "cargo": "Technical Delivery & Lifecycle Lead (Software Engineering)",
       "periodo": "Agosto 2023 - Marzo 2026",
       "contexto_problema": "Plataforma de microservicios distribuidos de alta concurrencia que requirió ciclo de vida completo (end-to-end), facilitación ágil interfuncional y observabilidad de APIs a escala masiva.",
       "logros": [
