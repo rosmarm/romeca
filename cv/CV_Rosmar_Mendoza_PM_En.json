@@ -1,0 +1,140 @@
+{
+  "name": "ROSMAR ALEJANDRA MENDOZA CANCHICA",
+  "title": "Systems Engineer & Technical Project Manager | Agile & AI Delivery",
+  "contact_info": {
+    "location": "Bogotá, Colombia (Available for Remote / Hybrid)",
+    "phone": "+57 3173820550",
+    "email": "mendozarosmar@gmail.com",
+    "linkedin": "https://linkedin.com/in/rosmar-mendoza",
+    "github": "https://github.com/rosmarmendoza",
+    "portfolio_pm": "https://rosmarm.github.io/rosmar-cv/pm"
+  },
+  "professional_summary": "Systems Engineer certified by the PMI in PMP® Fundamentals and CPMAI™, offering 7+ years of professional technology experience orchestrating critical software delivery across hyper-scale tech (MercadoLibre), fintech startups (Mo Technologies), and multinational banking (Scotiabank). Combines strong technical depth (distributed microservices, cloud APIs) with strategic project leadership: orchestrating Scrum/Kanban squads, governing 99%+ production availability SLAs, automating executive KPI dashboards in Power BI, and embedding generative AI frameworks to accelerate Time-to-Market and operational efficiency. Uniquely skilled at aligning business priorities with technical execution to drive predictable, high-impact releases.",
+  "work_experience": [
+    {
+      "company": "MERCADOLIBRE",
+      "position": "Software Developer — Technical Delivery & Operations",
+      "period": "August 2023 - March 2026",
+      "context_problem": "High-volume distributed microservices platform requiring full-cycle ownership, cross-functional agile facilitation, and end-to-end API observability.",
+      "achievements": [
+        "Agile Governance & SDLC Lifecycle: Led agile squad orchestration under Scrum/Kanban across high-throughput distributed microservices; optimized backlog grooming and team capacity, improving sprint delivery predictability by 20%.",
+        "Cross-Functional Stakeholder Alignment: Spearheaded alignment between regional engineering, product, and operations teams; managed inter-team dependencies and mitigated delivery risks to guarantee continuous, frictionless releases.",
+        "Business Continuity & High-Availability SLAs (99%+): Governed telemetry observability and incident triage protocols for mission-critical Golang services, conducting root cause analysis (RCA) to safeguard 99%+ platform availability for millions of users.",
+        "AI-Driven Process Transformation (CPMAI™): Architected and deployed generative AI operational workflows (Cursor, Claude, CPMAI™), accelerating code refactoring and test automation turnaround by 30%."
+      ],
+      "keywords": ["SDLC Governance", "Scrum & Kanban", "Sprint Predictability", "Dependency Management", "Stakeholder Alignment", "Business Continuity", "SLA 99%+", "AI Adoption (CPMAI™)", "Golang"]
+    },
+    {
+      "company": "MO TECHNOLOGIES",
+      "position": "Agile Delivery & Operations",
+      "period": "January 2022 - August 2023",
+      "summary": "Orchestrated end-to-end technical delivery and operational governance across a fast-scaling B2B fintech startup. Directed cross-functional alignment between engineering and product to deploy digital credit APIs and cloud integrations (Python/AWS) on schedule; restructured Level 2 incident response via Jira Service Desk, cutting MTTR by 25% and consistently sustaining 99%+ enterprise SLA compliance with international banking partners.",
+      "keywords": ["Agile Delivery Leadership", "Jira Service Desk", "SLA 99%+", "MTTR Reduction (25%)", "Python APIs", "Banking Partners", "AWS"]
+    },
+    {
+      "company": "SCOTIABANK GBS",
+      "position": "System Access Analyst — IT Governance & Reporting",
+      "period": "October 2019 - October 2021",
+      "context_problem": "Strict regulatory compliance and auditing mandates for enterprise banking systems requiring standardized access governance and centralized executive reporting.",
+      "achievements": [
+        "Executive BI Dashboards & Data Strategy: Architected and automated interactive Power BI dashboards and Microsoft 365 data pipelines, delivering real-time KPI visibility to executive leadership and global audit committees.",
+        "IT Governance & Enterprise Compliance: Governed corporate identity and access management (IAM) across Active Directory environments, upholding strict regulatory standards with zero audit findings.",
+        "Standard Operating Procedures (SOPs): Authored bilingual technical operating frameworks for onboarding enterprise applications (.NET), standardizing operational excellence across international business units."
+      ],
+      "keywords": ["IT Governance", "Power BI", "Executive Dashboards", "Microsoft 365", "Active Directory", "Compliance", "SOP Frameworks", "Banking Audit"]
+    }
+  ],
+  "skills_and_competencies": {
+    "project_and_agile_management": [
+      "Agile Project Management",
+      "Scrum & Kanban Leadership",
+      "Sprint Planning & Retrospectives",
+      "Backlog Grooming & Prioritization",
+      "Risk & Scope Management",
+      "CPMAI™ (AI Project Framework)",
+      "PMP® Standards"
+    ],
+    "operations_and_problem_solving": [
+      "SLA / SLO Compliance (99%+)",
+      "Production Incident Management",
+      "Root Cause Analysis (RCA)",
+      "MTTR Reduction",
+      "High-Pressure Troubleshooting",
+      "ITIL Foundations",
+      "On-Call Operations"
+    ],
+    "business_intelligence_and_office_tools": [
+      "Power BI (Executive Dashboards)",
+      "Microsoft 365 / Office Suite",
+      "Jira Software & Jira Service Desk",
+      "Confluence",
+      "Slack / MS Teams (Asynchronous Comms)",
+      "Git & GitHub"
+    ],
+    "stakeholder_and_bilingual_communication": [
+      "Cross-Functional Team Leadership",
+      "Client & Stakeholder Management",
+      "Technical Documentation & SOPs",
+      "Bilingual Technical Writing",
+      "Executive Progress Reporting"
+    ],
+    "technical_foundations_and_ai": [
+      "AI Workflow Automation (Claude, Cursor, LLMs)",
+      "Microservices Architecture",
+      "RESTful APIs",
+      "Golang",
+      "Python (FastAPI, Django)",
+      "PostgreSQL",
+      "AWS Cloud",
+      "CI/CD Pipelines"
+    ]
+  },
+  "certifications": [
+    {
+      "title": "Cognitive Project Management in AI (CPMAI)™",
+      "issuer": "Project Management Institute (PMI)",
+      "date": "September 2026",
+      "details": "Standard methodology for agile management, governance, and delivery of AI-powered projects."
+    },
+    {
+      "title": "Project Management Professional (PMP)® - Intro & Fundamentals",
+      "issuer": "Project Management Institute (PMI)",
+      "date": "August 2026",
+      "details": "PMI project management fundamentals, life-cycle governance, and predictive/agile delivery standards."
+    },
+    {
+      "title": "Professional Engineering License (Systems Engineering)",
+      "issuer": "COPNIA (National Council of Professional Engineering, Colombia)",
+      "date": "June 2024",
+      "details": "Official License No. 091184-0725447 CND."
+    },
+    {
+      "title": "Professional Developer (Certified Tech Developer)",
+      "issuer": "Digital House, Globant & MercadoLibre",
+      "date": "July 2023",
+      "details": "Comprehensive intensive software engineering program (1,568 certified hours)."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Systems Engineering",
+      "institution": "Universidad Nacional Experimental del Táchira (UNET)",
+      "year": "2019",
+      "note": "Official Professional Title recognized internationally as Systems Engineer."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Intermediate (B1)"
+    },
+    {
+      "language": "French",
+      "proficiency": "Basic"
+    }
+  ]
+}
